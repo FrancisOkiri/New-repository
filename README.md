@@ -1,2 +1,1 @@
-# New-repository
-My new repository
+#!/bin/bash
